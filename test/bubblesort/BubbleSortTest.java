@@ -62,5 +62,12 @@ public class BubbleSortTest {
 
         assertArrayEquals(new int[] { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 }, numbers);
     }
+    @Test
+    public void bubbleSortEx4TestSuccess() {
+        int[] numbers = new int[] { 40, 90, 38, 27, 56, 15, 24, 73, 22, 21, 70 };
+        testClass.bubbleSort(numbers);
+
+        assertArrayEquals(new int[] { 15, 21, 22, 32, 4, 5, 40, 56, 70, 73, 90 }, numbers);
+    }
 }
 
