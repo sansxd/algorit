@@ -11,3 +11,6 @@ Dada su simplicidad, el ordenamiento de burbuja es utilizado para introducir el 
 ### Análisis Asintótico 	
 El ordenamiento de burbuja tiene una complejidad Ω(n²). Cuando una lista ya está ordenada, el método de ordenación por burbuja está forzado a pasar por toda la lista y hacer comparaciones, lo que hace que su complejidad sea cuadrática en el mejor de los casos, esto lo cataloga como el algoritmo más ineficiente que existe, aunque funciona bien cuando son pocos elementos.
 
+### Ejemplo en imagen
+
+![imagenBubbleSrt](https://github.com/sansxd/algorit/blob/master/imagenes/imgbubblesort.png)
