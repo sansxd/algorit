@@ -23,7 +23,7 @@ El ordenamiento de burbuja tiene una complejidad Ω(n²). Cuando una lista ya es
 * Muy lento.
 * Realiza numerosas comparaciones.
 * Realiza numerosos intercambios.
-
+* Entre mayor sea la cantidad de Elementos que recorre, mas le cuesta recorrer el Vector(N vueltas)
 ### Ejemplo en imagen
 
 ![imagenBubbleSrt](https://github.com/sansxd/algorit/blob/master/imagenes/imgbubblesort.png)
