@@ -13,6 +13,17 @@ El ordenamiento de burbuja tiene una complejidad Ω(n²). Cuando una lista ya es
 
 **En mi caso utilice este algoritmo en lenguaje C#, en el cual se realizaron 4 Test unitarios con N elementos definidos, para saber el tiempo de demora con respecto a N elementos.**
 
+#### Ventajas:
+
+* Fácil implementación.
+* No requiere memoria adicional.
+
+#### Desventajas:
+
+* Muy lento.
+* Realiza numerosas comparaciones.
+* Realiza numerosos intercambios.
+
 ### Ejemplo en imagen
 
 ![imagenBubbleSrt](https://github.com/sansxd/algorit/blob/master/imagenes/imgbubblesort.png)
